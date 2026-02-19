@@ -182,16 +182,6 @@ This suggests that the dataset likely includes emails from the well-known Enron 
 * Combining predictive modeling with exploratory text analytics
 
 
-## Future Improvements
-
-* Cross-validation
-* Hyperparameter tuning
-* More advanced classifiers (SVM, XGBoost, Transformer-based classifiers)
-* Cost-sensitive learning
-* Precision-Recall curve optimization
-* Use of contextual embeddings (BERT) for classification
-
-
 ## Tech Stack
 
 * Python
