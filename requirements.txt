@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+nltk
+spacy
+spacy-transformers
+gensim
+wordcloud
